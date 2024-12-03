@@ -2,3 +2,6 @@
 
 https://public.tableau.com/app/profile/colin.lovestad/viz/dasboardcore/Dashboard1?publish=yes
 
+For EDA and python visuals 
+[EDA & python visuals](https://github.com/clovestad/Chicago_crimes_EDA-python_visuals)
+
